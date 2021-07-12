@@ -1,4 +1,4 @@
-# end-game
+# know-me
 A quiz about myself
 A fun quiz that is actually a CLI progam built on node.js
 It asks the user questions about myself and compare thes answers
